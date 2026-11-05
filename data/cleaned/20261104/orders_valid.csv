@@ -1,0 +1,51 @@
+order_id,customer_id,order_date,product_name,quantity,unit_price_gbp,status,customer_name,city,line_revenue_gbp
+10074,39,2026-11-04,Notebook Pack,3.0,7.5,COMPLETED,Mia Stone,Edinburgh,22.5
+10064,28,2026-11-04,Notebook Pack,1.0,7.5,COMPLETED,Leo Owen,London,7.5
+10088,34,2026-11-04,Desk Lamp,2.0,29.0,CANCELLED,Charlie Lowe,Newcastle,58.0
+10082,28,2026-11-04,Ergonomic Chair Cushion,1.0,34.5,COMPLETED,Leo Owen,London,34.5
+10075,14,2026-11-04,Webcam HD,2.0,54.99,COMPLETED,Ethan Ward,London,109.98
+10111,41,2026-11-04,Mechanical Keyboard,2.0,89.0,COMPLETED,Layla Okafor,Glasgow,178.0
+10094,2,2026-11-04,Mechanical Keyboard,2.0,89.0,COMPLETED,Oliver Bennett,Manchester,178.0
+10105,2,2026-11-04,Desk Lamp,1.0,29.0,COMPLETED,Oliver Bennett,Manchester,29.0
+10106,16,2026-11-04,Desk Lamp,1.0,29.0,CANCELLED,Mohammed Ali,Leeds,29.0
+10066,13,2026-11-04,USB C Cable,1.0,9.99,COMPLETED,Grace Morris,London,9.99
+10060,26,2026-11-04,Desk Lamp,1.0,29.0,COMPLETED,Daniel Grant,Manchester,29.0
+10059,23,2026-11-04,Desk Lamp,1.0,29.0,CANCELLED,Hannah Reid,Birmingham,29.0
+10099,26,2026-11-04,Laptop Stand,2.0,39.5,REFUNDED,Daniel Grant,Manchester,79.0
+10062,22,2026-11-04,Noise Cancelling Headphones,1.0,149.0,COMPLETED,James Murphy,Glasgow,149.0
+10081,16,2026-11-04,Portable SSD 1TB,1.0,99.0,COMPLETED,Mohammed Ali,Leeds,99.0
+10058,31,2026-11-04,USB C Cable,1.0,9.99,COMPLETED,Maya Doyle,Liverpool,9.99
+10090,21,2026-11-04,Notebook Pack,2.0,7.5,COMPLETED,Lily Fisher,Liverpool,15.0
+10070,33,2026-11-04,Ergonomic Chair Cushion,1.0,34.5,CANCELLED,Evie Kerr,Leeds,34.5
+10108,42,2026-11-04,Portable SSD 1TB,2.0,99.0,COMPLETED,Reuben Barnes,Liverpool,198.0
+10100,42,2026-11-04,Phone Charger,2.0,19.99,COMPLETED,Reuben Barnes,Liverpool,39.98
+10096,39,2026-11-04,Mechanical Keyboard,1.0,89.0,COMPLETED,Mia Stone,Edinburgh,89.0
+10086,28,2026-11-04,Monitor Arm,2.0,64.0,COMPLETED,Leo Owen,London,128.0
+10107,14,2026-11-04,Monitor Arm,2.0,64.0,COMPLETED,Ethan Ward,London,128.0
+10080,13,2026-11-04,Monitor Arm,5.0,64.0,COMPLETED,Grace Morris,London,320.0
+10097,32,2026-11-04,Monitor Arm,1.0,64.0,COMPLETED,Henry Hart,Glasgow,64.0
+10063,12,2026-11-04,USB C Cable,2.0,9.99,PENDING,Liam Turner,Leeds,19.98
+10114,5,2026-11-04,Webcam HD,2.0,54.99,COMPLETED,Isla Patel,Glasgow,109.98
+10068,24,2026-11-04,Ergonomic Chair Cushion,2.0,34.5,COMPLETED,Samuel Collins,London,69.0
+10056,27,2026-11-04,Mechanical Keyboard,3.0,89.0,COMPLETED,Ruby Lloyd,London,267.0
+10091,25,2026-11-04,USB C Cable,3.0,9.99,COMPLETED,Ava Ellis,Newcastle,29.97
+10093,43,2026-11-04,Webcam HD,1.0,54.99,COMPLETED,Sienna Fleming,London,54.99
+10113,36,2026-11-04,Notebook Pack,1.0,7.5,PENDING,William Nash,Leeds,7.5
+10103,17,2026-11-04,Mechanical Keyboard,1.0,89.0,COMPLETED,Emily Brooks,London,89.0
+10072,12,2026-11-04,Laptop Stand,2.0,39.5,COMPLETED,Liam Turner,Leeds,79.0
+10078,13,2026-11-04,Desk Lamp,1.0,29.0,COMPLETED,Grace Morris,London,29.0
+10069,40,2026-11-04,USB C Cable,1.0,9.99,REFUNDED,Finley Young,Leeds,9.99
+10076,43,2026-11-04,Monitor Arm,1.0,64.0,CANCELLED,Sienna Fleming,London,64.0
+10087,29,2026-11-04,Monitor Arm,1.0,64.0,PENDING,Ella Shaw,Edinburgh,64.0
+10057,11,2026-11-04,Portable SSD 1TB,3.0,99.0,CANCELLED,Priya Shah,London,297.0
+10077,22,2026-11-04,Notebook Pack,1.0,7.5,COMPLETED,James Murphy,Glasgow,7.5
+10098,11,2026-11-04,Mechanical Keyboard,2.0,89.0,COMPLETED,Priya Shah,London,178.0
+10095,20,2026-11-04,Mechanical Keyboard,2.0,89.0,COMPLETED,Thomas Bailey,London,178.0
+10092,27,2026-11-04,Laptop Stand,2.0,39.5,COMPLETED,Ruby Lloyd,London,79.0
+10104,4,2026-11-04,Monitor Arm,1.0,64.0,COMPLETED,Harry Thompson,London,64.0
+10084,30,2026-11-04,Desk Lamp,1.0,29.0,PENDING,Oscar Webb,Glasgow,29.0
+10112,7,2026-11-04,Portable SSD 1TB,3.0,99.0,CANCELLED,Freya Evans,Leeds,297.0
+10073,1,2026-11-04,Phone Charger,1.0,19.99,COMPLETED,Amelia Clarke,London,19.99
+10061,23,2026-11-04,Notebook Pack,3.0,7.5,PENDING,Hannah Reid,Birmingham,22.5
+10071,19,2026-11-04,Ergonomic Chair Cushion,2.0,34.5,COMPLETED,Zara Hussain,Bristol,69.0
+10110,36,2026-11-04,USB C Cable,3.0,9.99,COMPLETED,William Nash,Leeds,29.97

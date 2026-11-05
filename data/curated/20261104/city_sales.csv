@@ -1,0 +1,9 @@
+run_date,city,completed_orders,completed_revenue_gbp
+20261104,London,17,1765.95
+20261104,Glasgow,5,508.48
+20261104,Liverpool,4,262.97
+20261104,Manchester,3,236.0
+20261104,Leeds,3,207.97
+20261104,Edinburgh,2,111.5
+20261104,Bristol,1,69.0
+20261104,Newcastle,1,29.97

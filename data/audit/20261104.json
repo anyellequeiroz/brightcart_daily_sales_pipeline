@@ -1,0 +1,48 @@
+{
+  "run_date": "20261104",
+  "run_at_utc": "2026-11-05T17:02:19+00:00",
+  "customers": {
+    "source": 44,
+    "valid": 42,
+    "rejected": 2,
+    "rejected_by_reason": {
+      "duplicate_customer_id": 1,
+      "missing_customer_name": 1
+    },
+    "reconciles": true
+  },
+  "orders": {
+    "source": 63,
+    "valid": 50,
+    "rejected": 13,
+    "rejected_by_reason": {
+      "invalid_quantity": 3,
+      "duplicate_order_id": 3,
+      "missing_price": 2,
+      "unknown_customer": 2,
+      "missing_customer_id": 1,
+      "invalid_status": 1,
+      "invalid_price": 1
+    },
+    "reconciles": true
+  },
+  "output": {
+    "completed_orders": 36,
+    "completed_revenue_gbp": 3191.84,
+    "cities_in_report": 8
+  },
+  "status": "success",
+  "output_age_minutes": {
+    "city_sales.csv": 0.0,
+    "daily_summary.csv": 0.0
+  },
+  "quality_checks": {
+    "order counts reconcile": true,
+    "customer counts reconcile": true,
+    "no duplicate order_id in valid output": true,
+    "no missing quantity or price in valid output": true,
+    "revenue: cleaned = city report": true,
+    "revenue: city report = audit": true,
+    "outputs are fresh (written in the last 60 min)": true
+  }
+}

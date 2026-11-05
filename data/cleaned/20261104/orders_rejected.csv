@@ -1,0 +1,14 @@
+order_id,customer_id,order_date,product_name,quantity,unit_price_gbp,status,rejection_reason
+10102,,2026-11-04,Mechanical Keyboard,1.0,89.0,COMPLETED,missing_customer_id
+10065,39,2026-11-04,Portable SSD 1TB,,99.0,CANCELLED,invalid_quantity
+10083,4,2026-11-04,Laptop Stand,2.0,,CANCELLED,missing_price
+10090,21,2026-11-04,Notebook Pack,2.0,7.5,COMPLETED,duplicate_order_id
+10079,40,2026-11-04,Wireless Mouse,1.0,,COMPLETED,missing_price
+10089,5,2026-11-04,Ergonomic Chair Cushion,3.0,34.5,SHIPPD,invalid_status
+10101,4,2026-11-04,Laptop Stand,-2.0,39.5,PENDING,invalid_quantity
+10067,999,2026-11-04,Wireless Mouse,2.0,24.99,COMPLETED,unknown_customer
+10080,13,2026-11-04,Monitor Arm,3.0,64.0,COMPLETED,duplicate_order_id
+10085,39,2026-11-04,Monitor Arm,0.0,64.0,COMPLETED,invalid_quantity
+10086,28,2026-11-04,Monitor Arm,2.0,64.0,COMPLETED,duplicate_order_id
+10115,998,2026-11-04,Ergonomic Chair Cushion,1.0,34.5,COMPLETED,unknown_customer
+10109,11,2026-11-04,Phone Charger,1.0,-19.99,REFUNDED,invalid_price
