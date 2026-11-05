@@ -1,0 +1,3 @@
+customer_id,customer_name,city,email,rejection_reason
+12,Ruby Turner,Leeds,ruby.turner@example.co.uk,duplicate_customer_id
+37,,Liverpool,isabella.quinn@example.co.uk,missing_customer_name

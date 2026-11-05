@@ -1,0 +1,49 @@
+order_id,customer_id,order_date,product_name,quantity,unit_price_gbp,status,customer_name,city,line_revenue_gbp
+10128,36,2026-11-05,USB C Cable,2.0,9.99,REFUNDED,William Nash,Leeds,19.98
+10152,30,2026-11-05,Wireless Mouse,2.0,24.99,COMPLETED,Oscar Webb,Glasgow,49.98
+10146,12,2026-11-05,Noise Cancelling Headphones,2.0,149.0,COMPLETED,Liam Turner,Leeds,298.0
+10165,35,2026-11-05,Monitor Arm,2.0,64.0,PENDING,Poppy Mason,Manchester,128.0
+10133,16,2026-11-05,Notebook Pack,1.0,7.5,COMPLETED,Mohammed Ali,Leeds,7.5
+10162,5,2026-11-05,Noise Cancelling Headphones,1.0,149.0,COMPLETED,Isla Patel,Glasgow,149.0
+10153,40,2026-11-05,Wireless Mouse,2.0,24.99,COMPLETED,Finley Young,Leeds,49.98
+10129,15,2026-11-05,Phone Charger,2.0,19.99,COMPLETED,Chloe Cooper,Bristol,39.98
+10168,3,2026-11-05,Desk Lamp,1.0,29.0,PENDING,Aisha Khan,Manchester,29.0
+10170,45,2026-11-05,Ergonomic Chair Cushion,1.0,34.5,COMPLETED,Amara Mensah,London,34.5
+10147,6,2026-11-05,Mechanical Keyboard,2.0,89.0,COMPLETED,George Wright,Bristol,178.0
+10163,18,2026-11-05,Mechanical Keyboard,1.0,89.0,COMPLETED,Arthur Price,Leeds,89.0
+10148,43,2026-11-05,Webcam HD,1.0,54.99,COMPLETED,Sienna Fleming,London,54.99
+10158,30,2026-11-05,USB C Cable,1.0,9.99,COMPLETED,Oscar Webb,Glasgow,9.99
+10116,20,2026-11-05,Webcam HD,1.0,54.99,COMPLETED,Thomas Bailey,London,54.99
+10145,12,2026-11-05,Ergonomic Chair Cushion,2.0,34.5,CANCELLED,Liam Turner,Leeds,69.0
+10124,29,2026-11-05,Phone Charger,1.0,19.99,COMPLETED,Ella Shaw,Edinburgh,19.99
+10169,25,2026-11-05,Portable SSD 1TB,3.0,99.0,COMPLETED,Ava Ellis,Newcastle,297.0
+10143,17,2026-11-05,Mechanical Keyboard,5.0,89.0,COMPLETED,Emily Brooks,London,445.0
+10167,36,2026-11-05,Webcam HD,2.0,54.99,PENDING,William Nash,Leeds,109.98
+10120,1,2026-11-05,Notebook Pack,1.0,7.5,COMPLETED,Amelia Clarke,Bristol,7.5
+10154,14,2026-11-05,Ergonomic Chair Cushion,1.0,34.5,COMPLETED,Ethan Ward,London,34.5
+10123,7,2026-11-05,Portable SSD 1TB,1.0,99.0,REFUNDED,Freya Evans,Leeds,99.0
+10137,28,2026-11-05,Desk Lamp,1.0,29.0,PENDING,Leo Owen,London,29.0
+10140,8,2026-11-05,Phone Charger,2.0,19.99,PENDING,Noah Hughes,London,39.98
+10151,26,2026-11-05,Webcam HD,2.0,54.99,COMPLETED,Daniel Grant,Manchester,109.98
+10127,36,2026-11-05,Ergonomic Chair Cushion,1.0,34.5,COMPLETED,William Nash,Leeds,34.5
+10142,39,2026-11-05,Noise Cancelling Headphones,1.0,149.0,COMPLETED,Mia Stone,Edinburgh,149.0
+10149,19,2026-11-05,Laptop Stand,3.0,39.5,COMPLETED,Zara Hussain,Bristol,118.5
+10131,1,2026-11-05,Mechanical Keyboard,2.0,89.0,COMPLETED,Amelia Clarke,Bristol,178.0
+10125,31,2026-11-05,Laptop Stand,1.0,39.5,REFUNDED,Maya Doyle,Liverpool,39.5
+10173,5,2026-11-05,Laptop Stand,2.0,39.5,COMPLETED,Isla Patel,Glasgow,79.0
+10139,39,2026-11-05,USB C Cable,3.0,9.99,COMPLETED,Mia Stone,Edinburgh,29.97
+10138,18,2026-11-05,Noise Cancelling Headphones,1.0,149.0,COMPLETED,Arthur Price,Leeds,149.0
+10134,27,2026-11-05,Noise Cancelling Headphones,2.0,149.0,COMPLETED,Ruby Lloyd,London,298.0
+10119,34,2026-11-05,Portable SSD 1TB,2.0,99.0,COMPLETED,Charlie Lowe,Newcastle,198.0
+10136,5,2026-11-05,Notebook Pack,3.0,7.5,COMPLETED,Isla Patel,Glasgow,22.5
+10118,44,2026-11-05,Portable SSD 1TB,1.0,99.0,COMPLETED,Elliot Gray,Manchester,99.0
+10117,21,2026-11-05,Desk Lamp,1.0,29.0,COMPLETED,Lily Fisher,Liverpool,29.0
+10135,3,2026-11-05,Portable SSD 1TB,1.0,99.0,COMPLETED,Aisha Khan,Manchester,99.0
+10126,36,2026-11-05,USB C Cable,3.0,9.99,COMPLETED,William Nash,Leeds,29.97
+10144,38,2026-11-05,USB C Cable,1.0,9.99,COMPLETED,Alfie Rowe,Bristol,9.99
+10172,1,2026-11-05,USB C Cable,3.0,9.99,COMPLETED,Amelia Clarke,Bristol,29.97
+10161,13,2026-11-05,Monitor Arm,2.0,64.0,COMPLETED,Grace Morris,London,128.0
+10156,16,2026-11-05,Monitor Arm,3.0,64.0,COMPLETED,Mohammed Ali,Leeds,192.0
+10164,38,2026-11-05,Notebook Pack,3.0,7.5,COMPLETED,Alfie Rowe,Bristol,22.5
+10122,36,2026-11-05,Notebook Pack,1.0,7.5,COMPLETED,William Nash,Leeds,7.5
+10130,20,2026-11-05,Mechanical Keyboard,2.0,89.0,COMPLETED,Thomas Bailey,London,178.0

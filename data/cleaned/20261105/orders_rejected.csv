@@ -1,0 +1,14 @@
+order_id,customer_id,order_date,product_name,quantity,unit_price_gbp,status,rejection_reason
+10150,30,2026-11-05,Mechanical Keyboard,1.0,89.0,SHIPPD,invalid_status
+10141,18,2026-11-05,Portable SSD 1TB,-2.0,99.0,COMPLETED,invalid_quantity
+10132,41,2026-11-05,Portable SSD 1TB,1.0,,COMPLETED,missing_price
+10155,29,2026-11-05,Noise Cancelling Headphones,3.0,-149.0,COMPLETED,invalid_price
+10157,36,2026-11-05,Laptop Stand,,39.5,COMPLETED,invalid_quantity
+10159,,2026-11-05,Ergonomic Chair Cushion,2.0,34.5,CANCELLED,missing_customer_id
+10171,999,2026-11-05,Noise Cancelling Headphones,2.0,149.0,REFUNDED,unknown_customer
+10147,6,2026-11-05,Mechanical Keyboard,2.0,89.0,COMPLETED,duplicate_order_id
+10166,25,2026-11-05,Webcam HD,2.0,,COMPLETED,missing_price
+10160,31,2026-11-05,Portable SSD 1TB,0.0,99.0,COMPLETED,invalid_quantity
+10143,17,2026-11-05,Mechanical Keyboard,1.0,89.0,COMPLETED,duplicate_order_id
+10121,998,2026-11-05,Webcam HD,1.0,54.99,COMPLETED,unknown_customer
+10163,18,2026-11-05,Mechanical Keyboard,1.0,89.0,COMPLETED,duplicate_order_id

@@ -1,0 +1,42 @@
+customer_id,customer_name,city,email
+1,Amelia Clarke,London,amelia.clarke@example.co.uk
+2,Oliver Bennett, manchester ,oliver.bennett@example.co.uk
+3,Aisha Khan,Manchester,aisha.khan@example.co.uk
+4,Harry Thompson,London,
+5,Isla Patel,Glasgow,isla.patel@example.co.uk
+6,George Wright,Bristol,george.wright@example.co.uk
+7,Freya Evans,LEEDS,freya.evans@example.co.uk
+8,Noah Hughes,London,noah.hughes@example.co.uk
+9,Sophie Walker,Birmingham,
+10,Jack Robinson,London,jack.robinson@example.co.uk
+11,Priya Shah,london ,priya.shah@example.co.uk
+12,Liam Turner,Leeds,liam.turner@example.co.uk
+13,Grace Morris,London,grace.morris@example.co.uk
+14,Ethan Ward,London,ethan.ward@example.co.uk
+15,Chloe Cooper,Bristol,
+16,Mohammed Ali,Leeds,mohammed.ali@example.co.uk
+17,Emily Brooks,London,emily.brooks@example.co.uk
+18,Arthur Price,Leeds,arthur.price@example.co.uk
+19,Zara Hussain, Bristol,zara.hussain@example.co.uk
+20,Thomas Bailey,London,thomas.bailey@example.co.uk
+12,Ruby Turner,Leeds,ruby.turner@example.co.uk
+21,Lily Fisher,Liverpool,
+22,James Murphy,Glasgow,james.murphy@example.co.uk
+23,Hannah Reid,birmingham,hannah.reid@example.co.uk
+24,Samuel Collins,London,samuel.collins@example.co.uk
+25,Ava Ellis,Newcastle,ava.ellis@example.co.uk
+26,Daniel Grant,Manchester,daniel.grant@example.co.uk
+27,Ruby Lloyd,London,ruby.lloyd@example.co.uk
+28,Leo Owen,London,
+29,Ella Shaw,Edinburgh,ella.shaw@example.co.uk
+30,Oscar Webb,GLASGOW ,oscar.webb@example.co.uk
+31,Maya Doyle,Liverpool,maya.doyle@example.co.uk
+32,Henry Hart,Glasgow,henry.hart@example.co.uk
+33,Evie Kerr,Leeds,
+34,Charlie Lowe,Newcastle,charlie.lowe@example.co.uk
+35,Poppy Mason,Manchester,poppy.mason@example.co.uk
+36,William Nash,Leeds,william.nash@example.co.uk
+37,,Liverpool,isabella.quinn@example.co.uk
+38,Alfie Rowe,Bristol,alfie.rowe@example.co.uk
+39,Mia Stone,Edinburgh,mia.stone@example.co.uk
+40,Finley Young,Leeds,

@@ -1,0 +1,64 @@
+order_id,customer_id,order_date,product_name,quantity,unit_price_gbp,status
+10074,39,2026-11-04,Notebook Pack,3,7.50,COMPLETED 
+10102,,2026-11-04,Mechanical Keyboard,1,89.00,Completed
+10064,28,2026-11-04,Notebook Pack,1,7.50,COMPLETED 
+10088,34,2026-11-04,Desk Lamp,2,29.00,cancelled
+10082,28,2026-11-04,Ergonomic Chair Cushion,1,34.50,COMPLETED
+10075,14,2026-11-04,Webcam HD,2,54.99,Completed
+10111,41,2026-11-04,Mechanical Keyboard,2,89.00,COMPLETED
+10094,2,2026-11-04,Mechanical Keyboard,2,89.00,COMPLETED 
+10105,2,2026-11-04,Desk Lamp,1,29.00,COMPLETED
+10106,16,2026-11-04,Desk Lamp,1,29.00,CANCELLED
+10066,13,2026-11-04,USB C Cable,1,9.99,COMPLETED 
+10060,26,2026-11-04,Desk Lamp,1,29.00,COMPLETED
+10059,23,2026-11-04,Desk Lamp,1,29.00,cancelled
+10099,26,2026-11-04,Laptop Stand,2,39.50,REFUNDED
+10062,22,2026-11-04,Noise Cancelling Headphones,1,149.00, completed 
+10081,16,2026-11-04,Portable SSD 1TB,1,99.00,completed
+10065,39,2026-11-04,Portable SSD 1TB,two,99.00,cancelled
+10058,31,2026-11-04,USB C Cable,1,9.99,COMPLETED
+10090,21,2026-11-04,Notebook Pack,2,7.50,COMPLETED
+10070,33,2026-11-04,Ergonomic Chair Cushion,1,34.50,cancelled
+10108,42,2026-11-04,Portable SSD 1TB,2,99.00,COMPLETED
+10100,42,2026-11-04,Phone Charger,2,19.99,COMPLETED
+10083,4,2026-11-04,Laptop Stand,2,,cancelled
+10096,39,2026-11-04,Mechanical Keyboard,1,£89.00, completed 
+10086,28,2026-11-04,Monitor Arm,2,64.00, completed 
+10090,21,2026-11-04,Notebook Pack,2,7.50,COMPLETED
+10107,14,2026-11-04,Monitor Arm,2,64.00,COMPLETED 
+10080,13,2026-11-04,Monitor Arm,5,64.00,COMPLETED 
+10097,32,04/11/2026,Monitor Arm,1,64.00,completed
+10079,40,2026-11-04,Wireless Mouse,1,,Completed
+10063,12,2026-11-04,USB C Cable,2,9.99,pending
+10114,5,2026-11-04,Webcam HD,2,54.99,COMPLETED
+10068,24,2026-11-04,Ergonomic Chair Cushion,2,34.50,COMPLETED
+10089,5,2026-11-04,Ergonomic Chair Cushion,3,34.50,SHIPPD
+10056,27,2026-11-04,Mechanical Keyboard,3,89.00,COMPLETED
+10091,25,2026-11-04,USB C Cable,3,9.99,COMPLETED
+10093,43,2026-11-04,Webcam HD,1,54.99,COMPLETED
+10113,36,2026-11-04,Notebook Pack,1,7.50,PENDING
+10103,17,2026-11-04,Mechanical Keyboard,1,89.00,completed
+10072,12,2026-11-04,Laptop Stand,2,39.50,completed
+10078,13,2026-11-04,Desk Lamp,1,29.00,COMPLETED
+10069,40,2026-11-04,USB C Cable,1,9.99,refunded
+10101,4,2026-11-04,Laptop Stand,-2,39.50,PENDING
+10067,999,2026-11-04,Wireless Mouse,2,24.99,COMPLETED
+10076,43,2026-11-04,Monitor Arm,1,64.00,CANCELLED
+10087,29,2026-11-04,Monitor Arm,1,64.00,pending
+10057,11,2026-11-04,Portable SSD 1TB,3,99.00,cancelled
+10077,22,2026-11-04,Notebook Pack,1,7.50,COMPLETED 
+10080,13,2026-11-04,Monitor Arm,3,64.00,COMPLETED 
+10098,11,2026-11-04,Mechanical Keyboard,2,89.00,completed
+10095,20,2026-11-04,  Mechanical Keyboard ,2,89.00,COMPLETED
+10092,27,2026-11-04,Laptop Stand,2,39.50,COMPLETED
+10085,39,2026-11-04,Monitor Arm,0,64.00, completed 
+10104,4,2026-11-04,Monitor Arm,1,64.00, completed 
+10086,28,2026-11-04,Monitor Arm,2,64.00, completed 
+10084,30,2026-11-04,Desk Lamp,1,29.00,PENDING
+10112,7,2026-11-04,Portable SSD 1TB,3,99.00,CANCELLED
+10073,1,04/11/2026,Phone Charger,1,19.99, completed 
+10061,23,2026-11-04,Notebook Pack,3,7.50,pending
+10115,998,2026-11-04,Ergonomic Chair Cushion,1,34.50,completed
+10109,11,2026-11-04,Phone Charger,1,-19.99,REFUNDED
+10071,19,2026-11-04,Ergonomic Chair Cushion,2,34.50,completed
+10110,36,2026-11-04,USB C Cable,3,9.99,COMPLETED
